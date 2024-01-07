@@ -7,6 +7,80 @@ This notebook uses data from various sources to understand, analyze and visualiz
 This dataset includes time-series data tracking the number of people affected by COVID-19 worldwide, including.
 
 
+## Screenshots
+
+### Scatterplot Visualization
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/1.png?raw=true">
+
+### Cases Density Animation On World Map
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/2.png?raw=true">
+
+### Cases Visualization using Folium Maps
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/3.png?raw=true">
+
+### Confirmed Cases with Choropleth Map
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/4.png?raw=true">
+
+### Confirmed & Death Cases using Bar Plots
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/5.png?raw=true">
+
+### Confirmed & Death Cases with Static Colormap
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/6.png?raw=true">
+
+### Deaths & Recoveries per 100 Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/7.png?raw=true">
+
+### Number of new cases per Day & Countries Affected
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/8.png?raw=true">
+
+### Top 15 Countries Case Analysis
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/9.png?raw=true">
+
+### Scatter Plot for Deaths VS Confirmed Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/10.png?raw=true">
+
+### Stacked Bar Plot Confirmed Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/11.png?raw=true">
+
+### Stacked Bar Plot Deaths
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/12.png?raw=true">
+
+### Stacked Bar Plot New Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/13.png?raw=true">
+
+### Line Plot Confirmed Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/14.png?raw=true">
+
+### Line Plot Confirmed Deaths
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/15.png?raw=true">
+
+### Line Plot Confirmed New Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/16.png?raw=true">
+
+### Growth rate after 100k Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/17.png?raw=true">
+
+### Growth rate after 1 Million Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/18.png?raw=true">
+
+### Growth rate after 10 Million Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/19.png?raw=true">
+
+### Tree Map Number of Confimred Cases
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/20.png?raw=true">
+
+### Tree Map Number of Deaths
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/21.png?raw=true">
+
+### Confirmed Cases Country & Day Wise in Each Country
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/22.png?raw=true">
+
+### COVID-19 VS Other Similar Epidemics
+<img src="https://github.com/roberttev/COVID-19-Data-Analysis/blob/main/ScreenshotsGraphs/23.png?raw=true">
+
+
+
+
 
 ## Data
 
@@ -28,3 +102,12 @@ Data is in CSV format and updated daily. It is sourced from [this upstream repos
 - European Centre for Disease Prevention and Control (ECDC): https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 - Ministry of Health Singapore (MOH): https://www.moh.gov.sg/covid-19
 - Italy Ministry of Health: http://www.salute.gov.it/nuovocoronavirus
+
+
+
+
+
+
+
+
+
