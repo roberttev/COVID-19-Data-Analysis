@@ -1,10 +1,7 @@
 # COVID19-Data-Analysis
 
 
-
-This notebook uses data from various sources to understand, analyze and visualize the changes in the number of cases through different visualization techniques and plots.
-
-This dataset includes time-series data tracking the number of people affected by COVID-19 worldwide, including.
+This project utilizes COVID-19 (SARS-CoV-2) Dataset to explore, analyze, and illustrate the progression of cases using different visualization methods. The notebook integrates data from multiple different sources, offering inishgts into the global impact of COVID-19 through time-series analysis and various graphical representations. The focus is on tracking the trends and changes in the case numebrs, recovieries, and also fatalities associated with the COVID-19/.
 
 
 ## Screenshots
